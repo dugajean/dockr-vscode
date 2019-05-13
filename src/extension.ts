@@ -1,5 +1,5 @@
 /*---------------------------------------------------------
- * Copyright (C) Dugaxhin Surdulli. All rights reserved.
+ * Copyright (C) Dukagjin Surdulli. All rights reserved.
  *--------------------------------------------------------*/
 
 'use strict';
