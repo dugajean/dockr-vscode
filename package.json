@@ -1,15 +1,15 @@
 {
-	"name": "status-ts",
-	"displayName": "Selected Line Numbers",
-	"description": "Shows the number of selected lines in the status bar",
+	"name": "dockr-vscode",
+	"displayName": "Dockr",
+	"description": "Easily turn on or off your docker containers.",
 	"version": "0.0.1",
-	"publisher": "vscode-samples",
+	"publisher": "dugajean",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Microsoft/vscode-extension-samples"
+		"url": "https://github.com/dugajean/dockr-vscode"
 	},
 	"bugs": {
-		"url": "https://github.com/Microsoft/vscode-extension-samples/issues"
+		"url": "https://github.com/dugajean/dockr-vscode/issues"
 	},
 	"engines": {
 		"vscode": "^1.32.0"
