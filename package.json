@@ -2,7 +2,7 @@
 	"name": "dockr-vscode",
 	"displayName": "Dockr",
 	"description": "Easily turn your docker containers on or off.",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"publisher": "dugajean",
 	"repository": {
 		"type": "git",
@@ -32,14 +32,14 @@
 			}
 		],
 		"configuration": {
-            "title": "Dockr Configuration",
-            "properties": {
-                "dockr.dockrPath": {
-                    "type": "string",
-                    "default": "dockr",
+			"title": "Dockr Configuration",
+			"properties": {
+				"dockr.dockrPath": {
+					"type": "string",
+					"default": "dockr",
 					"description": "This will set the path to the dockr executable"
-                }
-            }
+				}
+			}
 		}
 	},
 	"main": "./out/extension.js",
