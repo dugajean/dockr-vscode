@@ -30,7 +30,17 @@
 				"command": "dockr.down",
 				"title": "Dockr: Stop containers (down)"
 			}
-		]
+		],
+		"configuration": {
+            "title": "Dockr Configuration",
+            "properties": {
+                "dockr.dockrPath": {
+                    "type": "string",
+                    "default": "dockr",
+					"description": "This will set the path to the dockr executable"
+                }
+            }
+		}
 	},
 	"main": "./out/extension.js",
 	"scripts": {
