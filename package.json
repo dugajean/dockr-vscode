@@ -2,7 +2,7 @@
 	"name": "dockr-vscode",
 	"displayName": "Dockr",
 	"description": "Easily turn your docker containers on or off.",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"publisher": "dugajean",
 	"icon": "icon.png",
 	"repository": {
